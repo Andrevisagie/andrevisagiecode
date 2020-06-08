@@ -1,0 +1,15 @@
+{
+	"1":
+	{
+		"name":"George Arthur",
+		"password":"passwsord1"
+	},
+	"2":
+	{	"name":"May Roads",
+		"password":"password2"
+	},
+	"3":
+	{	"name":"Irene Jones",
+		"password":"passwsord3"
+	}
+}
